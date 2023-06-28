@@ -1,1 +1,23 @@
-my new file contents
+{
+      "CONFIG": {
+          "close_btn_img": "{S3URL}Trackers/btn-close.png",
+          "check_btn_img": "{S3URL}Trackers/Green+Tick.svg",
+          "arrow_btn_img": "{S3URL}Trackers/arrow-icon.png"
+      },
+      "PROGRESSCARD": {
+          "header": "Daily Check-In",
+          "submit_text": "Check In Now",
+          "headerImage": "{S3URL}Trackers/Daily+check+in%403x.png",
+          "close_btn_img": "{S3URL}Trackers/btn-close.png",
+          "check_btn_img": "{S3URL}Trackers/Green+Tick.svg",
+          "arrow_btn_img": "{S3URL}Trackers/arrow-icon.png"
+      },
+      "PROGRESSCARD-ACTIVE": {
+          "img": "",
+          "text": "Earn entries to win prizes every time\nyou check in."
+      },
+      "PROGRESSCARD-EMPTY": {
+        "img": "",
+        "text": "Earn your first entry now by just \nchecking in!"
+      }
+}
